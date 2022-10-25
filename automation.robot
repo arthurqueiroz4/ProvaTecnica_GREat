@@ -13,4 +13,7 @@ Cenário de teste
     Check if it's in page of TestLink
     Click on the github link
     Check if it's in page of Github
-    Close the browser
+    Do a search on github
+    Check search result
+    Click in result
+#    Close the browser

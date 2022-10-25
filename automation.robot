@@ -16,4 +16,4 @@ Cenário de teste
     Do a search on github
     Check search result
     Click in result
-#    Close the browser
+    Close the browser
